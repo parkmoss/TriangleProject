@@ -1,0 +1,11 @@
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\bin\Debug\TrianglesProject.exe.config
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\bin\Debug\TrianglesProject.exe
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\bin\Debug\TrianglesProject.pdb
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.csproj.AssemblyReference.cache
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.TriangleForm.resources
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.Properties.Resources.resources
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.csproj.GenerateResource.cache
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.csproj.CoreCompileInputs.cache
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.exe
+C:\Users\duud\source\repos\TrianglesProject\TrianglesProject\obj\Debug\TrianglesProject.pdb
